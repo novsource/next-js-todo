@@ -10,5 +10,5 @@ export default antfu({
   gitignore: true,
 
   typescript: true,
-  react: true,
+  nextjs: true,
 })
